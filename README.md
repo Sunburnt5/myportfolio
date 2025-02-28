@@ -1,2 +1,1 @@
-# stanislavtymchyshyn.github.io
 # myportfolio
